@@ -49,4 +49,4 @@ docker rmi <os name/ image name>
 ```
 
 ### Handwritten notes are also uploaded..have a look..!
-### Contributions are always welcome ❤. feel free to open full request.
+### Contributions are always welcome. feel free to open full request.
